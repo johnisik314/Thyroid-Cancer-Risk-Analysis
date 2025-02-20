@@ -1,6 +1,5 @@
 # 🦠 Thyroid Cancer Risk Prediction
-
-![Thyroid Cancer Risk Distribution](images/risk_distribution.png)  
+ 
 *Visualization: Thyroid Cancer Risk Distribution Across Ethnic Groups*
 
 ## 📌 Project Overview
